@@ -95,9 +95,3 @@ For more information about using Apworks Core framework in your application scaf
 
 ## Documentation
 
-
-
-## References
-
-* [Legacy Apworks project](https://github.com/daxnet/apworks)
-
